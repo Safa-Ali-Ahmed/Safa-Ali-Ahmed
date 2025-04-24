@@ -1,4 +1,4 @@
-# Hello There! 🌍 I'm Safa Ali Ahmed 👋🏼
+# Hello There! 👋🏼 I'm Safa Ali Ahmed 
 An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
 - 📊 Currently freelancing on Upwork, Mostaql, and Khamsat.
