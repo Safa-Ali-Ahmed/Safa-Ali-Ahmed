@@ -18,24 +18,24 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 
 # 🚀 Featured Projects
 Here are some of my recent projects that showcase my expertise:
-- **[Bank Analysis Dashboard](link)**  
+- **[Bank Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Bank-Analysis-Dashboard)**  
 *Technologies: Power BI, PowerQuery*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
-- **[Online Sales Analysis Dashboard](link)**  
+- **[Online Sales Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Online-Sales-Dashboard)**  
 *Technologies: Power BI, PowerQuery*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Dax for advanced measures
 
-- **[Sales Dashboard](link)**  
+- **[Sales Dashboard](https://github.com/Safa-Ali-Ahmed/Sales-Analysis)**  
 *Technologies: Power BI, PowerQuery*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Dax for advanced measures
 - 
   
-🔍 **Check out more of my projects in [my repositories](link)!**
+🔍 **Check out more of my projects in [my repositories](https://github.com/Safa-Ali-Ahmed?tab=repositories)!**
 
 ---
 
