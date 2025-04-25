@@ -12,7 +12,7 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgrs%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgrs%20-%23F2C811.svg?style=for-the-badge&logo=postgres&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
