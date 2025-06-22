@@ -33,7 +33,7 @@ Here are some of my recent projects that showcase my expertise:
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Dax for advanced measures
-- 
+
   
 🔍 **Check out more of my projects in [my repositories](https://github.com/Safa-Ali-Ahmed?tab=repositories)!**
 
