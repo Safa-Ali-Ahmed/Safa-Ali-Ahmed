@@ -2,7 +2,7 @@
 An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
 - 📊 Currently freelancing on Mostaql, and Khamsat.
-- 📚 Continuously learning from platforms like Coursera, DataCamp, and Udemy ,Maharatech
+- 📚 Continuously learning from platforms like Coursera, DataCamp, Udemy ,Maharatech and Coursera
 - 🌱 Exploring advanced analytics, AI tools, 
 
 ---
