@@ -13,7 +13,7 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres%20-%23F2C811.svg?style=for-the-badge&logo=postgressql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23316192.svg?style=for-the-badge&logo=excel&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 # 🚀 Featured Projects
