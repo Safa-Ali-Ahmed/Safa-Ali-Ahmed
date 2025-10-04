@@ -15,10 +15,6 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 ![Excel](https://img.shields.io/badge/Excel-%23316192.svg?style=for-the-badge&logo=excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%233776AB.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![ٍStatistics](https://img.shields.io/badge/ٍStatistics-%23F2C811.svg?style=for-the-badge&logo=ٍStatistics&logoColor=white)
-![Data Storytelling](https://img.shields.io/badge/Data Storytelling-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Data Manipulation](https://img.shields.io/badge/Data Manipulation-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Dashboard Design](https://img.shields.io/badge/Dashboard Design%20-%23F2C811.svg?style=for-the-badge&logo=postgressql&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot Tables-%23316192.svg?style=for-the-badge&logo=Pivot Tables&logoColor=white)
 ---
 
 # 🚀 Featured Projects
