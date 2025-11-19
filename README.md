@@ -1,7 +1,7 @@
 # Hello There! 👋🏼 I'm Safa Ali Ahmed 
 An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!
 
-- 📊 Currently freelancing on Mostaql, and Khamsat.
+- 📊 Currently freelancing on Mostaql, and Khamsat and FreelanceYard.
 - 📚 Continuously learning from platforms like Coursera, DataCamp, Udemy ,Maharatech and Coursera
 - 🌱 Exploring advanced analytics, AI tools, 
 
@@ -19,17 +19,18 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 
 # 🚀 Featured Projects
 Here are some of my recent projects that showcase my expertise:
-- **[Bank Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Bank-Analysis-Dashboard)**  
-*Technologies: Power BI, PowerQuery*  
+- **[Pizza Analysis Dashboard]((https://github.com/Safa-Ali-Ahmed/Pizza-Sales-Project))**  
+*Technologies: Power BI, PowerQuery,SQL*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
-- **[Online Sales Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Online-Sales-Dashboard)**  
-*Technologies: Power BI, PowerQuery*  
+- Quering using SQL
+- **[Product Sales Analysis Dashboard]((https://github.com/Safa-Ali-Ahmed/Products-Sales-Analysis))**  
+*Technologies: Power BI, PowerQuery,DAX*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Dax for advanced measures
 
-- **[Sales Dashboard](https://github.com/Safa-Ali-Ahmed/Sales-Analysis)**  
+- **[Courses Dashboard]((https://github.com/Safa-Ali-Ahmed/Courses-Analysis-Power-BI))**  
 *Technologies: Power BI, PowerQuery*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
