@@ -19,18 +19,18 @@ An **ambitious Data Analyst** based in Alexandria, Egypt, with a passion for tra
 
 # 🚀 Featured Projects
 Here are some of my recent projects that showcase my expertise:
-- **[Pizza Analysis Dashboard]((https://github.com/Safa-Ali-Ahmed/Pizza-Sales-Project))**  
+- **[Pizza Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Pizza-Sales-Project)**  
 *Technologies: Power BI, PowerQuery,SQL*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Quering using SQL
-- **[Product Sales Analysis Dashboard]((https://github.com/Safa-Ali-Ahmed/Products-Sales-Analysis))**  
+- **[Product Sales Analysis Dashboard](https://github.com/Safa-Ali-Ahmed/Products-Sales-Analysis)**  
 *Technologies: Power BI, PowerQuery,DAX*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
 - Dax for advanced measures
 
-- **[Courses Dashboard]((https://github.com/Safa-Ali-Ahmed/Courses-Analysis-Power-BI))**  
+- **[Courses Dashboard](https://github.com/Safa-Ali-Ahmed/Courses-Analysis-Power-BI)**  
 *Technologies: Power BI, PowerQuery*  
 - preprocessing using Powerquery, resolving 100% issues
 - Visualize using Power BI
